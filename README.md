@@ -18,13 +18,13 @@ Dokumen ini menyajikan hasil analisis data penjualan berdasarkan data yang dikum
 
 Berikut adalah total penjualan untuk setiap produk:
 
-![Total Sales Per Product](total_sales_per_product.png)
+![Total Sales Per Product](reports/total_sales_per_product.png)
 
 ## Total Penjualan dari Waktu ke Waktu
 
 Berikut adalah total penjualan dari waktu ke waktu:
 
-![Total Sales Over Time](total_sales_over_time.png)
+![Total Sales Over Time](reports/sales_trend.png)
 
 ## Hasil Analisis
 
